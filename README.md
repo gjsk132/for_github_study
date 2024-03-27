@@ -1,5 +1,6 @@
 # for_github_study
 이 리포지토리는 깃허브 협업 과정을 정리하기 위해 만들어졌습니다.
+
 This is a repository created to organize the collaboration process on GitHub.
 
 근데 이젠 그냥 깃허브에 대한 모든걸 정리하고 있네...
